@@ -114,11 +114,13 @@
 				"imgcontainer2" : "2nd_render.jpg",
 				"imgcontainer3" : "3rd_render.jpg",
 				"imgcontainer4" : "4th_render.jpg",
-				"imgcontainer5" : "denoising_highQuality.jpg",
-				"imgcontainer6" : "denoising_lowQuality.jpg",
+				"imgcontainer5" : "sun_plain.jpg",
+				"imgcontainer6" : "sun_backgroundTexture.jpg",
 				"imgcontainer7" : "spotlight.jpg",
-				"imgcontainer8" : "sun_backgroundTexture.jpg",
-				"imgcontainer9" : "sun_plain.jpg",
+				"imgcontainer8" : "denoising_lowQuality.jpg",
+				"imgcontainer9" : "denoising_highQuality.jpg",
+				
+				
 			}
         	jQuery("li.tab").click(function(){
         		var elem = jQuery(this).data("tab");
